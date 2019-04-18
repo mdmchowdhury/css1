@@ -1,0 +1,131 @@
+
+
+body{
+ background-color: lightblue;
+ font-family: courier;
+}
+
+
+h4{
+	background-color: olive;
+}
+
+div{
+	background-color: white;
+}
+
+.dotted{
+	border-style: dotted;
+}
+
+.dashed{
+	border-style: dashed;
+}
+
+
+.double{
+	border-style: double;
+}
+.groove{
+	border-style: groove;
+}
+
+.leftborder{
+  border-left: 6px solid red;
+  background-color: lightgrey;
+}
+
+.roundedborder{
+	border: 2px solid red;
+  	border-radius: 5px;
+  	border-left: 6px solid red;
+}
+
+.margin{
+	margin: 80px;
+	border: 6px solid green;
+}
+
+
+div{
+  border: 1px solid black;
+  margin-top: 20px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: silver;
+}
+
+.top{
+  border: 1px solid black;
+  padding: 25px 50px 50px;
+  background-color: lightblue;
+}
+
+.width{
+  height: 100px;
+  width: 40%;
+  background-color: white;
+}
+
+.model{
+background-color: lightgrey;
+width: 200px;
+border: 20px solid green;
+padding: 20px;
+margin: 10px;
+}
+
+p {outline-color:green;}
+
+p.dotted {outline-style: dotted;}
+p.solid {outline-style: solid;}
+p.double {outline-style: double;}
+p.groove {outline-style: groove;}
+p.ridge {outline-style: ridge;}
+p.inset {outline-style: inset;}
+p.outset {outline-style: outset;}
+
+
+
+
+h1.center {
+  text-align: center;
+}
+
+h2.left {
+  text-align: left;
+}
+
+h3.right {
+  text-align: right;
+}
+
+.justify{
+border: 1px solid olive;
+padding: 20px;
+width: 200px;
+height: 200px;
+text-align: justify;
+}
+
+a{
+	text-decoration: none;
+}
+
+h3.spacing1{
+	letter-spacing: 3px;
+}
+
+h3.spacing2{
+	letter-spacing: 5px;
+}
+
+h3.shadow{
+	text-shadow: 3px 2px green;
+}
+
+
+
+
+</style>
